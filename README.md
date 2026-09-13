@@ -163,4 +163,4 @@ This implementation works best as **semantic/category image recognition** agains
 
 ## License
 
-No license has been selected yet. Public visibility on GitHub does not automatically grant reuse rights. Add a license if you want others to copy, modify, or redistribute the project.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
