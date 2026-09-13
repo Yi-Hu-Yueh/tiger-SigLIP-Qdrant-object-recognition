@@ -4,6 +4,9 @@
 
 本專案會將 `rawpics/` 下每一個第一層資料夾視為一個類別（class）或物件 ID，使用 SigLIP 將每張參考圖片轉換為向量，經 L2 normalization 後存入 Qdrant，並透過 cosine similarity 搜尋來辨識新的圖片。
 
+
+## 🚀 無需訓練模型，即可進行物件辨識。
+
 ## 系統架構
 
 ```text
