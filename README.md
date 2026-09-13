@@ -11,9 +11,11 @@
 >
 > **不需要自行訓練神經網路模型。**
 
-## 🚀 使用chatgpt(pro-USD100)，未使用codex、claude code、copilot等。
 >
 > 將參考圖片放入 `rawpics/`，執行建庫程式，即可建立向量資料庫並開始辨識。
+
+
+## 🚀 使用chatgpt(pro-USD100)，未使用codex、claude code、copilot等。
 
 ## 系統架構
 
