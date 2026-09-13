@@ -17,6 +17,8 @@
 
 ## 🚀 使用chatgpt(pro-USD100)，未使用codex、claude code、copilot等。
 
+> https://chatgpt.com/share/6aa72439-c484-83e8-86a4-d9e791556e1d
+
 ## 系統架構
 
 ```text
