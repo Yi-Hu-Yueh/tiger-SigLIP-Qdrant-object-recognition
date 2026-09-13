@@ -1,0 +1,11 @@
+# Direct dependencies used by this project.
+# Your shared _multi_query environment already contains these versions except
+# python-multipart in the supplied environment export.
+fastapi>=0.139.0
+pillow>=12.2.0
+python-dotenv>=1.2.2
+qdrant-client>=1.18.0
+torch>=2.12.1
+transformers>=5.12.1
+uvicorn>=0.49.0
+python-multipart>=0.0.20

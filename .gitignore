@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+venv_*/
+
+# Local configuration / secrets
+.env
+.env.*
+!.env.example
+
+# Generated model/cache data
+models/hf_cache/
+
+# Generated Qdrant/index data
+data/qdrant/
+data/index_manifest.json
+*.sqlite
+*.sqlite3
+
+# Reference/test images are intentionally kept out of the public source repo.
+# Add your own local images under rawpics/<class_name>/.
+rawpics/*
+!rawpics/README.txt
+!rawpics/.gitkeep
+
+# Local outputs / downloads
+*.zip
+logs/
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Microsoft Word temporary files
+~$*
